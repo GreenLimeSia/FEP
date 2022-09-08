@@ -1,2 +1,2 @@
 # TGM
-A teacher-guided method for facial cartoonlization
+A domain-guided model for facial cartoonlization
