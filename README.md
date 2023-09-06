@@ -1,2 +1,2 @@
-# DGM
-A domain-guided model for facial cartoonlization
+# FEP Conceptural Design
+
